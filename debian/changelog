@@ -1,0 +1,15 @@
+ros-kinetic-magni-bringup (0.1.1-0jessie) jessie; urgency=high
+
+  * Install launch/param dirs
+  * Contributors: Rohan Agrawal
+
+ -- Rohan Agrawal <rohan@aleopile.com>  Tue, 04 Jul 2017 07:00:00 -0000
+
+ros-kinetic-magni-bringup (0.1.0-0jessie) jessie; urgency=high
+
+  * initial release
+  * Contributors: Jim Vaughan, Joe Landau, Kurt Christofferson, Rohan Agrawal
+
+ -- Rohan Agrawal <rohan@aleopile.com>  Sat, 17 Jun 2017 07:00:00 -0000
+
+
