@@ -1,0 +1,21 @@
+ros-kinetic-magni-nav (0.2.0-0xenial) xenial; urgency=high
+
+
+
+ -- Rohan Agrawal <send2arohan@gmail.com>  Sat, 19 Aug 2017 07:00:00 -0000
+
+ros-kinetic-magni-nav (0.1.1-0xenial) xenial; urgency=high
+
+  * Install launch/param dirs
+  * Contributors: Rohan Agrawal
+
+ -- Rohan Agrawal <send2arohan@gmail.com>  Tue, 04 Jul 2017 07:00:00 -0000
+
+ros-kinetic-magni-nav (0.1.0-0xenial) xenial; urgency=high
+
+  * Initial release
+  * Contributors: Jim Vaughan, Rohan Agrawal
+
+ -- Rohan Agrawal <send2arohan@gmail.com>  Sat, 17 Jun 2017 07:00:00 -0000
+
+
