@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>magni_bringup</name>
-  <version>0.1.1</version>
+  <version>0.2.0</version>
   <description>The magni_bringup package</description>
 
   <maintainer email="rohan@aleopile.com">Rohan Agrawal</maintainer>
@@ -13,7 +13,6 @@
   <depend>magni_description</depend>
   <depend>ubiquity_motor</depend>
   <depend>robot_state_publisher</depend>
-  <depend>topic_tools</depend>
   <depend>controller_manager</depend>
   <depend>joint_state_controller</depend>
   <depend>diff_drive_controller</depend>
