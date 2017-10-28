@@ -2,6 +2,14 @@
 Changelog for package magni_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.1 (2017-10-28)
+------------------
+* Add launch file for fiducial_follow (`#40 <https://github.com/UbiquityRobotics/magni_robot/issues/40>`_)
+  * Add launch file for fiducial_follow
+  * Update camera for front facing
+  * Use low res image for faster tracking
+* Contributors: Jim Vaughan
+
 0.2.0 (2017-08-19)
 ------------------
 
