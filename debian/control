@@ -1,0 +1,12 @@
+Source: ros-kinetic-magni-description
+Section: misc
+Priority: extra
+Maintainer: Rohan Agrawal <send2arohan@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-magni-description
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-joint-state-publisher, ros-kinetic-robot-state-publisher, ros-kinetic-urdf, ros-kinetic-xacro
+Description: The magni_description package
