@@ -1,0 +1,42 @@
+ros-kinetic-magni-demos (0.2.2-0jessie) jessie; urgency=high
+
+  * Have both ssl and non-ssl version of rosbridge (#39 <https://github.com/UbiquityRobotics/magni_robot/issues/39>)
+    * have both ssl and non-ssl version of rosbridge
+    * added tf2 web publisher to launch file
+    * fix the base launch being commented out
+  * Contributors: Rohan Agrawal
+
+ -- Rohan Agrawal <send2arohan@gmail.com>  Fri, 22 Dec 2017 08:00:00 -0000
+
+ros-kinetic-magni-demos (0.2.1-0jessie) jessie; urgency=high
+
+  * Add launch file for fiducial_follow (#40 <https://github.com/UbiquityRobotics/magni_robot/issues/40>)
+    * Add launch file for fiducial_follow
+    * Update camera for front facing
+    * Use low res image for faster tracking
+  * Contributors: Jim Vaughan
+
+ -- Rohan Agrawal <send2arohan@gmail.com>  Sat, 28 Oct 2017 07:00:00 -0000
+
+ros-kinetic-magni-demos (0.2.0-0jessie) jessie; urgency=high
+
+  * add teleop launch that starts rosbridge. replaces joystick launch
+  * Contributors: Rohan Agrawal
+
+ -- Rohan Agrawal <send2arohan@gmail.com>  Sat, 19 Aug 2017 07:00:00 -0000
+
+ros-kinetic-magni-demos (0.1.1-0jessie) jessie; urgency=high
+
+  * Install launch/param dirs
+  * Contributors: Rohan Agrawal
+
+ -- Rohan Agrawal <send2arohan@gmail.com>  Tue, 04 Jul 2017 07:00:00 -0000
+
+ros-kinetic-magni-demos (0.1.0-0jessie) jessie; urgency=high
+
+  * Initial release
+  * Contributors: Rohan Agrawal
+
+ -- Rohan Agrawal <send2arohan@gmail.com>  Sat, 17 Jun 2017 07:00:00 -0000
+
+
